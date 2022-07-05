@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 My favourite foods are
 1) rice
 2) beans
 3) potatoes
-=======
 My favourite movies are
 1) justice league
 2) Tom and jerry
 3) WWE
->>>>>>> movies
